@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223366125799",
+    "project_id": "messengerapp-29e4d",
+    "storage_bucket": "messengerapp-29e4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223366125799:android:cc98cee3ad3c902bae2a42",
+        "android_client_info": {
+          "package_name": "com.dbtech.messengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223366125799-k1p706lhvr25mem3bi4t0jufc49qbuft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqb8ViAUNUJWBBzakHjg3Ql5DnO--JXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223366125799-k1p706lhvr25mem3bi4t0jufc49qbuft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
