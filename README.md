@@ -54,7 +54,7 @@ This project follows a clean separation by packages (Clean Architecture style) a
 - ViewModels expose state using **StateFlow**
 - UI observes and reacts to ViewModel state
 
-### 🧩 Use Cases (present)
+### Use Cases (present)
 - `LoginUseCase`
 - `RegisterUseCase`
 - `LogoutUseCase`
