@@ -69,4 +69,9 @@ This project follows a clean separation by packages (Clean Architecture style) a
 - Firebase **Auth**
 - Firebase **Realtime Database**
 
-### Database structure used
+### Architecture 
+
+- Using Clean Architechture for the whole application and using MVVM for the presentation layer.
+<img width="1180" height="560" alt="MessengerApp_architecture_example_style_v5" src="https://github.com/user-attachments/assets/706a0113-28fd-475b-a626-fd13359abd37" />
+
+
